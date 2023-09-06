@@ -16,7 +16,7 @@ We refer to the paper linked [here](https://gvpress.com/journals/IJMUE/vol10_no4
 
 To use this project:
 
-1. Run the [notebook](https://github.com/victorknox/Hate-Speech-Detection-in-Hindi/blob/main/Hate_Speech_Detection.ipynb).
+1. Run the [notebook](https://github.com/mithleshupadhyay/Hindi-Hate-Speech-Detection/blob/master/Hate_Speech_Detection.ipynb).
 2. Navigate to the Data section and update the file name with your dataset.
 3. The results will be saved in the `results.csv` file.
 
